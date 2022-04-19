@@ -75,3 +75,5 @@ source /home/ivan/code/imoyap/dotfiles/zsh-syntax-highlighting/zsh-syntax-highli
 # Customize to your needs...
     export     PATH=/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin/:/opt/local/bin:/opt/local/sbin:/usr/local/bin:/usr/local/sbin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/X11/bin:/usr/local/cuda/bin:/usr/local/cuda/bin:/opt/local/bin:/opt/local/sbinexport BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
